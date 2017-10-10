@@ -3,7 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: ibm-fiap-chatbot
-  host: ibm-fiap-chatbot-priscilla-parodi
-  #trocar ${random-word} por seu nome-sobrenome
+  name: #app name
+  host: #host name
   disk_quota: 1024M
